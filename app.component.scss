@@ -1,0 +1,18 @@
+.cards-container {
+    box-shadow: 0 0 3px;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.cards-container div {
+    box-shadow: 0 0 3px;
+    height: 100px;
+    width: 100px;
+    background-color: #ddd;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
